@@ -1,0 +1,9 @@
+title: CLS Variable Search
+description: Search and browse CLS cohort variables
+theme: just-the-docs
+
+url: https://MHancock57.github.io
+baseurl: /cls-variable-search
+
+search_enabled: true
+color_scheme: light

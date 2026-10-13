@@ -1,0 +1,322 @@
+[
+  {
+    "study":"1958 NCDS",
+    "sweep":-99.0,
+    "sweep-year-age":" -- ALL NCDS sweeps"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":-1.0,
+    "sweep-year-age":"NCDS_cross_sweep"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":0.0,
+    "sweep-year-age":"NCDS0_1958_birth"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":1.0,
+    "sweep-year-age":"NCDS1_1965_7y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":2.0,
+    "sweep-year-age":"NCDS2_1969_11y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":3.0,
+    "sweep-year-age":"NCDS3_1974_16y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":4.0,
+    "sweep-year-age":"NCDS4_1981_23y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":5.0,
+    "sweep-year-age":"NCDS5_1991_33y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":6.0,
+    "sweep-year-age":"NCDS6_1999_41y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":6.1,
+    "sweep-year-age":"NCDS6.1_2002_44y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":7.0,
+    "sweep-year-age":"NCDS7_2004_45y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":8.0,
+    "sweep-year-age":"NCDS8_2008_50y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":9.0,
+    "sweep-year-age":"NCDS9_2013_55y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":9.1,
+    "sweep-year-age":"NCDS9.1_2020_63y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":9.2,
+    "sweep-year-age":"NCDS9.2_2020_63y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":9.3,
+    "sweep-year-age":"NCDS9.3_2021_63y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":9.4,
+    "sweep-year-age":"NCDS9.4_2021_63y"
+  },
+  {
+    "study":"1958 NCDS",
+    "sweep":10.0,
+    "sweep-year-age":"NCDS10_2020_61y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":-99.0,
+    "sweep-year-age":" -- ALL BCS sweeps"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":-1.0,
+    "sweep-year-age":"BCS_cross_sweep"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":1.0,
+    "sweep-year-age":"BCS1_1970_birth"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":2.0,
+    "sweep-year-age":"BCS2_1975_5y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":3.0,
+    "sweep-year-age":"BCS3_1980_10y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":4.0,
+    "sweep-year-age":"BCS4_1986_15y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":5.0,
+    "sweep-year-age":"BCS5_1996_26y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":6.0,
+    "sweep-year-age":"BCS6_1999_29y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":7.0,
+    "sweep-year-age":"BCS7_2004_34y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":8.0,
+    "sweep-year-age":"BCS8_2008_38y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":9.0,
+    "sweep-year-age":"BCS9_2012_42y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":10.0,
+    "sweep-year-age":"BCS10_2016_46y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":10.1,
+    "sweep-year-age":"BCS10.1_2020_50y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":10.2,
+    "sweep-year-age":"BCS10.2_2020_50y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":10.3,
+    "sweep-year-age":"BCS10.3_2021_50y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":10.4,
+    "sweep-year-age":"BCS10.4_2021_50y"
+  },
+  {
+    "study":"1970 BCS",
+    "sweep":11.0,
+    "sweep-year-age":"BCS11_2021_51y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":-99.0,
+    "sweep-year-age":" -- ALL NS sweeps"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":-1.0,
+    "sweep-year-age":"NS_cross_sweep"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":1.0,
+    "sweep-year-age":"NS1_2004_14y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":2.0,
+    "sweep-year-age":"NS2_2005_15y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":3.0,
+    "sweep-year-age":"NS3_2006_16y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":4.0,
+    "sweep-year-age":"NS4_2007_17y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":5.0,
+    "sweep-year-age":"NS5_2008_18y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":6.0,
+    "sweep-year-age":"NS6_2009_19y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":7.0,
+    "sweep-year-age":"NS7_2010_20y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":8.0,
+    "sweep-year-age":"NS8_2015_25y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":8.1,
+    "sweep-year-age":"NS8.1_2020_31y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":8.2,
+    "sweep-year-age":"NS8.2_2020_31y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":8.3,
+    "sweep-year-age":"NS8.3_2021_31y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":8.4,
+    "sweep-year-age":"NS8.4_2021_31y"
+  },
+  {
+    "study":"NEXT STEPS",
+    "sweep":9.0,
+    "sweep-year-age":"NS9_2022_32y"
+  },
+  {
+    "study":"MCS",
+    "sweep":-99.0,
+    "sweep-year-age":" -- ALL MCS sweeps"
+  },
+  {
+    "study":"MCS",
+    "sweep":-1.0,
+    "sweep-year-age":"MCS_cross_sweep"
+  },
+  {
+    "study":"MCS",
+    "sweep":1.0,
+    "sweep-year-age":"MCS1_2001_9m"
+  },
+  {
+    "study":"MCS",
+    "sweep":2.0,
+    "sweep-year-age":"MCS2_2003_3y"
+  },
+  {
+    "study":"MCS",
+    "sweep":3.0,
+    "sweep-year-age":"MCS3_2006_5y"
+  },
+  {
+    "study":"MCS",
+    "sweep":4.0,
+    "sweep-year-age":"MCS4_2008_7y"
+  },
+  {
+    "study":"MCS",
+    "sweep":5.0,
+    "sweep-year-age":"MCS5_2012_11y"
+  },
+  {
+    "study":"MCS",
+    "sweep":6.0,
+    "sweep-year-age":"MCS6_2015_14y"
+  },
+  {
+    "study":"MCS",
+    "sweep":7.0,
+    "sweep-year-age":"MCS7_2018_17y"
+  },
+  {
+    "study":"MCS",
+    "sweep":7.1,
+    "sweep-year-age":"MCS7.1_2020_20y"
+  },
+  {
+    "study":"MCS",
+    "sweep":7.2,
+    "sweep-year-age":"MCS7.2_2020_20y"
+  },
+  {
+    "study":"MCS",
+    "sweep":7.3,
+    "sweep-year-age":"MCS7.3_2021_20y"
+  },
+  {
+    "study":"MCS",
+    "sweep":7.4,
+    "sweep-year-age":"MCS7.4_2021_20y"
+  },
+  {
+    "study":"MCS",
+    "sweep":8.0,
+    "sweep-year-age":"MCS8_2023_23y"
+  }
+]

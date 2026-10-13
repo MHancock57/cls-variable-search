@@ -1,0 +1,17 @@
+[
+  {
+    "var_type":"Date"
+  },
+  {
+    "var_type":"Numeric"
+  },
+  {
+    "var_type":"String"
+  },
+  {
+    "var_type":"Time"
+  },
+  {
+    "var_type":null
+  }
+]

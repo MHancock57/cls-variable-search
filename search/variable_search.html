@@ -1,0 +1,89 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+
+layout: default
+title: Variable Search
+
+<head>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/2.3.4/js/dataTables.min.js"> </script>
+<link rel="stylesheet"
+      href="https://cdn.datatables.net/2.3.4/css/dataTables.data">">
+
+</head>
+
+
+<h1>CLS Variable Search</h1>
+ 
+<select id="cohort">
+<option value="">Select cohort</option>
+<option value="mcs">MCS</option>
+<option value="bcs">BCS70</option>
+<option value="ncds">NCDS</option>
+<option value="next steps">NEXT STEPS</option>
+</select>
+ 
+<table id="results">
+</table>
+
+<script>
+ 
+let metadata = [];
+ 
+document
+.getElementById("cohort")
+.addEventListener("change", loadCohort);
+ 
+function loadCohort() {
+ 
+let cohort =
+document.getElementById("cohort").value;
+ 
+fetch(`../data/${cohort}.json`)
+.then(response => response.json())
+.then(data => {
+console.log(data);
+console.log(data.length); 
+metadata = data;
+ 
+buildTable(data);
+ 
+});
+}
+
+function buildTable(data){
+ 
+$('#results').DataTable({
+ 
+destroy:true,
+ 
+data:data,
+ 
+columns:[
+{data:'study'},
+{data:'research_topic_subtopic'},
+{data:'variable_name'},
+{data:'variable_label'},
+{data:'dataset_name'}
+],
+ 
+deferRender:true
+ 
+});
+}
+
+
+
+
+
+ 
+ 
+
+ 
+</script>
+

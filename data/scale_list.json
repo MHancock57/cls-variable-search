@@ -1,0 +1,137 @@
+[
+  {
+    "scale":""
+  },
+  {
+    "scale":"AUDIT:Alcohol Use Disorders Identification Test "
+  },
+  {
+    "scale":"BAS-NV:British Ability Scales (BAS) Naming Vocabulary"
+  },
+  {
+    "scale":"BAS-PC:British Ability Scales (BAS) Pattern Construction"
+  },
+  {
+    "scale":"BAS-PS:British Ability Scales (BAS) Picture Similarities"
+  },
+  {
+    "scale":"BAS-VS:British Ability Scales (BAS) Verbal Similarities"
+  },
+  {
+    "scale":"BAS-WR:British Ability Scales (BAS) Word Reading"
+  },
+  {
+    "scale":"BSRA:Bracken School Readiness Assessment"
+  },
+  {
+    "scale":"CANTAB:Cambridge Neuropsychological Test Automated Battery"
+  },
+  {
+    "scale":"CDI:Communicative Development Inventories"
+  },
+  {
+    "scale":"CITS:Carey Infant Temperament Scale "
+  },
+  {
+    "scale":"CPRS-SF:Pianta Child-Parent Relationship Scale - short form"
+  },
+  {
+    "scale":"CSBS:The Child Social Behavior Scale"
+  },
+  {
+    "scale":"CTS:Straus Conflict Tactics Scale"
+  },
+  {
+    "scale":"DCQ:The Dysmorphic Concern Questionnaire"
+  },
+  {
+    "scale":"DDST:Denver Developmental Screening Test"
+  },
+  {
+    "scale":"Disability classification EU-SILC:"
+  },
+  {
+    "scale":"Disability classification Equality act (2010):"
+  },
+  {
+    "scale":"EDE-QS:Eating Disorder Examination \u2013 Questionnaire Shortened"
+  },
+  {
+    "scale":"EPPE:Effective Provision of Pre-School Education "
+  },
+  {
+    "scale":"GAD-2:Generalised Anxiety Disorder 2-item"
+  },
+  {
+    "scale":"GAD-7:Generalized Anxiety Disorder "
+  },
+  {
+    "scale":"GHQ:General Health Questionnaire "
+  },
+  {
+    "scale":"GRIMS:Golombok Rust Inventory of Marital State "
+  },
+  {
+    "scale":"GRIT-8:Grit scale- perseverance and passion for long-term goals"
+  },
+  {
+    "scale":"ICU:Inventory of Callous-Unemotional Traits"
+  },
+  {
+    "scale":"K6:Kessler Psychological Distress Scale (K6)"
+  },
+  {
+    "scale":"LLHCI:ONS long lasting health conditions and illnesses, Impairments and Disability"
+  },
+  {
+    "scale":"MFQ:Mood and Feelings Questionnaire "
+  },
+  {
+    "scale":"MPAS:Condon Maternal Postnatal Attachment Scale"
+  },
+  {
+    "scale":"Malaise:Rutter Malaise Inventory"
+  },
+  {
+    "scale":"NFER-NS:NFER Number Skills"
+  },
+  {
+    "scale":"OCEAN:OCEAN Personality Test (Big Five)"
+  },
+  {
+    "scale":"ONS Loneliness 4:UCLA loneliness 3 -tem + overall lonely item"
+  },
+  {
+    "scale":"PCEs:The Positive Childhood Experiences scale"
+  },
+  {
+    "scale":"PHQ-2:Patient Health Questionnaire 2- item"
+  },
+  {
+    "scale":"PHQ-9:Patient Health Questionnaire "
+  },
+  {
+    "scale":"RSE:Rosenberg Self-Esteem Scale "
+  },
+  {
+    "scale":"SDQ:Strengths and Difficulties Questionnaire "
+  },
+  {
+    "scale":"SF-36:Short Form 36 Health Survey "
+  },
+  {
+    "scale":"SF-8:Short Form 8 Health Survey"
+  },
+  {
+    "scale":"SPS-3:Social Provisions Scale 3-item"
+  },
+  {
+    "scale":"Sally-Anne:Sally Anne Test"
+  },
+  {
+    "scale":"UCLA loneliness 3:UCLA loneliness 3-item scale"
+  },
+  {
+    "scale":"WEMWBS:Warwick-Edinburgh Mental Well-Being Scale "
+  }
+]
